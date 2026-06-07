@@ -1,5 +1,5 @@
 
-max_results: 20
+max_results: 200
 
 # file paths
 json_readme_path: './docs/tts-arxiv-daily.json'

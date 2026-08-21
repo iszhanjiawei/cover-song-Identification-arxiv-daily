@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-20**|**Unified Music Identification for Tracks and Versions**|R. Oguz Araz et.al.|[2608.19919](http://arxiv.org/abs/2608.19919)|null|
 |**2026-08-05**|**Towards Robust Version Identification in the Wild: A Dataset, Benchmark, and Fine-Tuning Study**|Simon Hachmeier et.al.|[2608.04543](http://arxiv.org/abs/2608.04543)|null|
 |**2026-01-16**|**Scalable Music Cover Retrieval Using Lyrics-Aligned Audio Embeddings**|Joanne Affolter et.al.|[2601.11262](http://arxiv.org/abs/2601.11262)|null|
 |**2025-09-09**|**Vulnerability-Affected Versions Identification: How Far Are We?**|Xingchu Chen et.al.|[2509.03876](http://arxiv.org/abs/2509.03876)|null|

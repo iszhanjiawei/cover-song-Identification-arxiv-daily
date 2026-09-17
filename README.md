@@ -1,4 +1,4 @@
-## Updated on 2026.09.16
+## Updated on 2026.09.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,10 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-16**|**Scalable Music Cover Retrieval Using Lyrics-Aligned Audio Embeddings**|Joanne Affolter et.al.|[2601.11262](http://arxiv.org/abs/2601.11262)|null|
 |**2026-09-08**|**REDSI: Addressing the Reproducibility and Evaluation Consistency of Differentiable Search Indexing for Document Retrieval**|Vivien Nicolas et.al.|[2609.08860](http://arxiv.org/abs/2609.08860)|null|
 |**2026-08-20**|**Unified Music Identification for Tracks and Versions**|R. Oguz Araz et.al.|[2608.19919](http://arxiv.org/abs/2608.19919)|null|
 |**2026-08-05**|**Towards Robust Version Identification in the Wild: A Dataset, Benchmark, and Fine-Tuning Study**|Simon Hachmeier et.al.|[2608.04543](http://arxiv.org/abs/2608.04543)|null|
-|**2026-01-16**|**Scalable Music Cover Retrieval Using Lyrics-Aligned Audio Embeddings**|Joanne Affolter et.al.|[2601.11262](http://arxiv.org/abs/2601.11262)|null|
 |**2025-09-09**|**Vulnerability-Affected Versions Identification: How Far Are We?**|Xingchu Chen et.al.|[2509.03876](http://arxiv.org/abs/2509.03876)|null|
 |**2025-09-05**|**Training a Perceptual Model for Evaluating Auditory Similarity in Music Adversarial Attack**|Yuxuan Liu et.al.|[2509.04985](http://arxiv.org/abs/2509.04985)|null|
 |**2025-08-14**|**VERCATION: Precise Vulnerable Open-source Software Version Identification based on Static Analysis and LLM**|Yiran Cheng et.al.|[2408.07321](http://arxiv.org/abs/2408.07321)|null|
@@ -53,5 +53,5 @@
 |**2014-11-19**|**Efficient Media Retrieval from Non-Cooperative Queries**|Kevin Shih et.al.|[1411.5307](http://arxiv.org/abs/1411.5307)|null|
 |**2011-09-12**|**Characterization and exploitation of community structure in cover song networks**|Joan Serrà et.al.|[1108.6003](http://arxiv.org/abs/1108.6003)|null|
 
-<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260917>back to top</a>)</p>
 

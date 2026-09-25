@@ -1,4 +1,4 @@
-## Updated on 2026.09.24
+## Updated on 2026.09.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -17,6 +17,7 @@
 |**2026-09-21**|**From OA colors to observable access states: A commentary on the 2026 OpenAlex proposal**|Abdelghani Maddi et.al.|[2609.24730](http://arxiv.org/abs/2609.24730)|null|
 |**2026-09-16**|**Scalable Music Cover Retrieval Using Lyrics-Aligned Audio Embeddings**|Joanne Affolter et.al.|[2601.11262](http://arxiv.org/abs/2601.11262)|null|
 |**2026-09-08**|**REDSI: Addressing the Reproducibility and Evaluation Consistency of Differentiable Search Indexing for Document Retrieval**|Vivien Nicolas et.al.|[2609.08860](http://arxiv.org/abs/2609.08860)|null|
+|**2026-08-24**|**Spectral-Guided Diffusion: Accelerating Inference via Static Spectral Layer Scheduling**|Ibne Farabi Shihab et.al.|[2609.29505](http://arxiv.org/abs/2609.29505)|null|
 |**2026-08-20**|**Unified Music Identification for Tracks and Versions**|R. Oguz Araz et.al.|[2608.19919](http://arxiv.org/abs/2608.19919)|null|
 |**2026-08-05**|**Towards Robust Version Identification in the Wild: A Dataset, Benchmark, and Fine-Tuning Study**|Simon Hachmeier et.al.|[2608.04543](http://arxiv.org/abs/2608.04543)|null|
 |**2025-09-09**|**Vulnerability-Affected Versions Identification: How Far Are We?**|Xingchu Chen et.al.|[2509.03876](http://arxiv.org/abs/2509.03876)|null|
@@ -54,5 +55,5 @@
 |**2014-11-19**|**Efficient Media Retrieval from Non-Cooperative Queries**|Kevin Shih et.al.|[1411.5307](http://arxiv.org/abs/1411.5307)|null|
 |**2011-09-12**|**Characterization and exploitation of community structure in cover song networks**|Joan Serrà et.al.|[1108.6003](http://arxiv.org/abs/1108.6003)|null|
 
-<p align=right>(<a href=#updated-on-20260924>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260925>back to top</a>)</p>
 

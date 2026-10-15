@@ -1,4 +1,4 @@
-## Updated on 2026.10.14
+## Updated on 2026.10.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-14**|**Learning When to Trust Medical Knowledge: Regression-Safe Routing for Clinical Reasoning**|Hui Zhang et.al.|[2610.19663](http://arxiv.org/abs/2610.19663)|null|
 |**2026-10-07**|**Tracing Inputs, Verifying Outputs: Validating Attribution in Music Generation**|Taejun Kim et.al.|[2610.09637](http://arxiv.org/abs/2610.09637)|null|
 |**2026-10-06**|**Towards AI-Generated Music Plagiarism Detection as a Version Identification Problem**|Fotis Koutsikos et.al.|[2610.09075](http://arxiv.org/abs/2610.09075)|null|
 |**2026-09-21**|**From OA colors to observable access states: A commentary on the 2026 OpenAlex proposal**|Abdelghani Maddi et.al.|[2609.24730](http://arxiv.org/abs/2609.24730)|null|
@@ -57,5 +58,5 @@
 |**2014-11-19**|**Efficient Media Retrieval from Non-Cooperative Queries**|Kevin Shih et.al.|[1411.5307](http://arxiv.org/abs/1411.5307)|null|
 |**2011-09-12**|**Characterization and exploitation of community structure in cover song networks**|Joan Serrà et.al.|[1108.6003](http://arxiv.org/abs/1108.6003)|null|
 
-<p align=right>(<a href=#updated-on-20261014>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261015>back to top</a>)</p>
 

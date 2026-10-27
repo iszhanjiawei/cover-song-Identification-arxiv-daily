@@ -1,4 +1,4 @@
-## Updated on 2026.10.26
+## Updated on 2026.10.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -58,5 +58,5 @@
 |**2014-11-19**|**Efficient Media Retrieval from Non-Cooperative Queries**|Kevin Shih et.al.|[1411.5307](http://arxiv.org/abs/1411.5307)|null|
 |**2011-09-12**|**Characterization and exploitation of community structure in cover song networks**|Joan Serrà et.al.|[1108.6003](http://arxiv.org/abs/1108.6003)|null|
 
-<p align=right>(<a href=#updated-on-20261026>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261027>back to top</a>)</p>
 

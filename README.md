@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-12**|**Evaluation of Music Version Retrieval Methods for Setlist Identification in Live Concerts**|Andres Ferraro et.al.|[2611.17070](http://arxiv.org/abs/2611.17070)|null|
 |**2026-10-14**|**Learning When to Trust Medical Knowledge: Regression-Safe Routing for Clinical Reasoning**|Hui Zhang et.al.|[2610.19663](http://arxiv.org/abs/2610.19663)|null|
 |**2026-10-07**|**Tracing Inputs, Verifying Outputs: Validating Attribution in Music Generation**|Taejun Kim et.al.|[2610.09637](http://arxiv.org/abs/2610.09637)|null|
 |**2026-10-06**|**Towards AI-Generated Music Plagiarism Detection as a Version Identification Problem**|Fotis Koutsikos et.al.|[2610.09075](http://arxiv.org/abs/2610.09075)|null|

@@ -1,4 +1,4 @@
-## Updated on 2026.11.17
+## Updated on 2026.11.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-16**|**Inventa: Decentralized Self-Improving Agents for Autonomous Scientific Discovery**|Prithwish Jana et.al.|[2611.21847](http://arxiv.org/abs/2611.21847)|null|
 |**2026-11-12**|**Evaluation of Music Version Retrieval Methods for Setlist Identification in Live Concerts**|Andres Ferraro et.al.|[2611.17070](http://arxiv.org/abs/2611.17070)|null|
 |**2026-10-14**|**Learning When to Trust Medical Knowledge: Regression-Safe Routing for Clinical Reasoning**|Hui Zhang et.al.|[2610.19663](http://arxiv.org/abs/2610.19663)|null|
 |**2026-10-07**|**Tracing Inputs, Verifying Outputs: Validating Attribution in Music Generation**|Taejun Kim et.al.|[2610.09637](http://arxiv.org/abs/2610.09637)|null|
@@ -59,5 +60,5 @@
 |**2014-11-19**|**Efficient Media Retrieval from Non-Cooperative Queries**|Kevin Shih et.al.|[1411.5307](http://arxiv.org/abs/1411.5307)|null|
 |**2011-09-12**|**Characterization and exploitation of community structure in cover song networks**|Joan Serrà et.al.|[1108.6003](http://arxiv.org/abs/1108.6003)|null|
 
-<p align=right>(<a href=#updated-on-20261117>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261118>back to top</a>)</p>
 
